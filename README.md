@@ -1,7 +1,7 @@
   # Objectif de la Journée 
   
   ## Debuter la formation 
-
+![alt text](image.jpg)
      
 	1. Apprendre à utiliser markdown pour formater les rapports 
      Pour cela j'ai lu la documentation sur https://github.com/mattcone/markdown-guide/blob/master/cheat-sheet.md
