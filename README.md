@@ -23,7 +23,15 @@
 	        en bas de la page toujours dans le body l'element <footer> qui contient les elements de bas de page comme la localisation, les informations sur 
                 artur ainsi que d'autres infos
 		`La page ne s'adapte pas avec toutes les tailles de navigateur
-		dès qu'on réduit la taille de la page la section en haut disparait comme illustré dans le screen shot en dessous.`
+		sur Edge dès qu'on réduit la taille de la page la section en haut disparait et la taille de video ne s'ajuste pas à la taille de video holder qui 
+                est presente sous forme de telephone mobile comme illustré dans le screen shot en dessous.`
 
-	   ![alt text]
+	   ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20221928.png)
+
+               quand on reduit la taille de la page L'apparence de menus est mal organisée, on voit des copiede la page d'accueils ainsi que l'ancien page d'accueil et il s'affiche en francais alors qu'il était en anglais
+
+	
+
+              
+
 
