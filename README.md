@@ -1,19 +1,22 @@
+📅 **Date :** 10 octobre 2024
 
   
-  # Objectif de la Journée 
-
+🎯 **Objectif de la Journée :**
+  
+ 1. Apprendre à utiliser markdown pour formater les rapports
+ 2. Analyser la page d'accueil "artur.art"
 
  ## Debuter la formation 
-	     1. Apprendre à utiliser markdown pour formater les rapports 
-	     Pour cela j'ai lu la documentation sur (https://github.com/mattcone/markdown-guide/blob/master/cheat-sheet.md)
+	    
+	    1.Apprendre markdown à l'aide de la documentation sur https://github.com/mattcone/markdown-guide/blob/master/cheat-sheet.md
 	     et regarder quelques videos sur youtube   
 	     
-	     2. Analyser la page d’accueil `Artur.art` en exploitant les elements Html sur devtools 
+	     2. Analyser la page d’accueil `Artur.art` en exploitant les elements Html sur devtools:
 	     La page est composée de plusieurs éléments html notament les elements html suivants
 	     `<html> <head> <title> <body> <div> <noscript> <iframe> <span> <p> <href> <button> <section> <header>
 	     <Nav> <svg> <nav> <ul> <li> <img> <footer> <h1> <h6>`
 	
-	     On a la structure typique
+	      On a la structure typique
 	      <HTML> precise la langue de la page "eng-CA"
 	      <Head> contient les métadonnées, les liens vers les feuilles de style css et des lien vers les scripts JavaScript, et <title> le titre de la page 
 	      <body>
@@ -27,9 +30,9 @@
 		`La page ne s'adapte pas avec toutes les tailles de navigateur
 		sur Edge dès qu'on réduit la taille de la page la section en haut disparait et la taille de video ne s'ajuste pas à la taille de video holder qui 
                 est presente sous forme de telephone mobile comme illustré dans le screen shot en dessous.`
-  
+ ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20221928.png)
 
-	   ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20221928.png)
+	      
 
                quand on reduit la taille de la page L'apparence de menus est mal organisée, on voit des copies de la page d'accueils ainsi que l'ancien page d'accueil et il s'affiche en francais alors qu'il était en anglais
 
@@ -45,7 +48,8 @@ Pour un mobile 425*525 , 375*525 et 320*525 l'affichage est correcte
 ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20235344.png)
 ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20235333.png)
 ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20235300.png)
+
 pour un ordinateur portable 1024*525 on tombe directement sur la caroussel donc la partie du haut ne s'affiche pas est le menu n'est pas bien organisé
-![alt text]1(https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-10%20000356.png)
+![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-10%20000356.png)
 
 Je remarque que le menu ne s'affiche pas correctement des qu'on reduit la taille de la page que sesoit en relation avec le navigateur ou differents ecran
