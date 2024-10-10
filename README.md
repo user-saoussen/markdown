@@ -25,13 +25,21 @@
 		`La page ne s'adapte pas avec toutes les tailles de navigateur
 		sur Edge dès qu'on réduit la taille de la page la section en haut disparait et la taille de video ne s'ajuste pas à la taille de video holder qui 
                 est presente sous forme de telephone mobile comme illustré dans le screen shot en dessous.`
+  
 
 	   ![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20221928.png)
 
-               quand on reduit la taille de la page L'apparence de menus est mal organisée, on voit des copiede la page d'accueils ainsi que l'ancien page d'accueil et il s'affiche en francais alors qu'il était en anglais
+               quand on reduit la taille de la page L'apparence de menus est mal organisée, on voit des copies de la page d'accueils ainsi que l'ancien page d'accueil et il s'affiche en francais alors qu'il était en anglais
 
 	
-
+![alt text](https://github.com/user-saoussen/markdown/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20225040.png)
               
+sur google chrome le meme probleme de menu se presente, la vido s'ajuste bien à la taille de son holder 
 
+par rapport à la taille des écrans:
+Pour une tablette 768*525 on tombe directement sur la caroussel donc la partie du haut ne s'affiche pas est le menu n'est pas bien organisé
+
+Pour un mobile 425*525 , 375*525 et 320*525 l'affichage est correcte
+
+pour un ordinateur portable 1024*525 on tombe directement sur la caroussel donc la partie du haut ne s'affiche pas est le menu n'est pas bien organisé
 
