@@ -38,7 +38,7 @@ sur google chrome le meme probleme de menu se presente, la vido s'ajuste bien à
 
 par rapport à la taille des écrans:
 Pour une tablette 768*525 on tombe directement sur la caroussel donc la partie du haut ne s'affiche pas est le menu n'est pas bien organisé
-
+https://github.com/user-saoussen/markdown/blob/0d59dd4b105ec92708f623209cfb789a5a157fb2/Capture%20d%E2%80%99%C3%A9cran%202024-10-09%20235405.png
 Pour un mobile 425*525 , 375*525 et 320*525 l'affichage est correcte
 
 pour un ordinateur portable 1024*525 on tombe directement sur la caroussel donc la partie du haut ne s'affiche pas est le menu n'est pas bien organisé
